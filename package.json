@@ -1,0 +1,24 @@
+{
+  "name": "drexel-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert-from-dsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faaizhipa/drexel-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/faaizhipa/drexel-version/issues"
+  },
+  "homepage": "https://github.com/faaizhipa/drexel-version#readme",
+  "dependencies": {
+    "json-stringify-pretty-compact": "^4.0.0"
+  }
+}
