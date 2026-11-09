@@ -1,6 +1,6 @@
-# Drexel Esploro Asset Converter
+# Asset Version Snapshot Generator
 
-This project converts Drexel research asset exports (stored as a custom-delimited text file) into individual Esploro-ready JSON payloads that mirror the reference files in `output_actual/`.
+This project converts research asset exports (stored as a custom-delimited text file) into individual Esploro-ready JSON payloads that mirror the reference files in `output_actual/`.
 
 ## Prerequisites
 
